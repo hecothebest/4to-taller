@@ -15,8 +15,7 @@ public static final double MIN_BALANCE = 2000.00;
 public static final double OVERDRAW_LIMIT = -1000.00;
 public static final double TRANS_FEE_NORMAL = 2.00;
 public static final double TRANS_FEE_OVERDRAW = 5.00;
-public static final String ERR_OVERDRAW_LIMIT_EXCEED = "Error: Transaction
-cannot be processed. "
+public static final String ERR_OVERDRAW_LIMIT_EXCEED = "Error: Transactioncannot be processed. "
 + "Overdraw limit exceeded.";
 //Atributos
 private State objState;
